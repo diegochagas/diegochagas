@@ -5,6 +5,14 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
+  <a href="https://diegochagas.com/">
+    <img align="center" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logoColor=white" target="_blank" alt="portfolio" />
+  </a>
+
+  <a href="mailto:drochachagas@gmail.com">
+    <img align="center" src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" alt="drochachagas@gmail.com" />
+  </a>
+
   <a href="https://www.linkedin.com/in/diegorchagas/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diegorchagas/" height="30" width="40" />
   </a>
