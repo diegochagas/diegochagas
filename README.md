@@ -1,59 +1,79 @@
-### Hi there, I'm Diego Chagas! 👋
+<h1 align="center">Hi there 👋, I'm Diego Chagas!</h1>
 
-<div align="center">
-  <a href="https://github.com/diegochagas">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegochagas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<h3 align="center">A passionate frontend developer from Brazil</h3>
 
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegochagas&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+<h3 align="left">Connect with me:</h3>
 
-<div style="display: inline_block">
-  <br>
-
-  <img align="center" alt="react js logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
-  <img align="center" alt="javascript logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-  <img align="center" alt="typescript logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  
-  <img align="center" alt="angular logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
-  
-  <img align="center" alt="HTML logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-  <img align="center" alt="CSS logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-##
- 
-<div> 
-  <a href="https://diegochagas.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=icon&logoColor=white" target="_blank" alt="portfolio text">
-  </a> 
-
-  <a href="https://www.linkedin.com/in/diegorchagas/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="linkedin logo">
-  </a> 
-  
-  <a href = "mailto:drochachagas@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" alt="gmail logo">
+<p align="left">
+  <a href="https://www.linkedin.com/in/diegorchagas/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diegorchagas/" height="30" width="40" />
   </a>
   
-  <a href="https://www.instagram.com/diegorchagas/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="instagram logo">
+  <a href="https://stackoverflow.com/users/8081459/diego-chagas" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/8081459/diego-chagas" height="30" width="40" />
   </a>
   
-  <a href="https://discordapp.com/users/590161836343689225" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" alt="discord logo">
-  </a> 
-  
-  <a href="https://www.youtube.com/@diegorchagas" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" alt="youtube logo">
+  <a href="https://www.instagram.com/diegorchagas/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/diegorchagas/" height="30" width="40" />
+  </a>
+
+  <a href="https://twitter.com/diegorchagas" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="diegorchagas" height="30" width="40" />
   </a>
   
-  <a href="https://www.twitch.tv/diegorchagas" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
+  <a href="https://www.facebook.com/diegorochachagas" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/diegorochachagas" height="30" width="40" />
   </a>
+
+  <a href="https://www.youtube.com/@diegorchagas" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@diegorchagas" height="30" width="40" />
+  </a>
+
+  <a href="https://discord.com/users/590161836343689225" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/590161836343689225" height="30" width="40" />
+  </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  </a>
+  
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  </a>
+  
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+  </a>
+  
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+  </a>
+</p>
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegochagas&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="diegochagas" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegochagas&layout=compact&langs_count=7&theme=dark" alt="diegochagas" />
 </div>
 
 <!--
