@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Diego Chagas!</h1>
 
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h3 align="center">A frontend developer from Brazil</h3>
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://diegochagas.com/">
+  <a href="https://diegochagas.com/" target="blank">
     <img align="center" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logoColor=white" target="_blank" alt="portfolio" />
   </a>
 
