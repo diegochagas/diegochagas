@@ -101,4 +101,4 @@ Here are some ideas to get you started:
 
 <hr>
 
-<p><b>Jesus said to him, "I am the way, and the truth, and the life. No one comes to the Father except through me." - John 14:6</b></p>
+<h1>Jesus said to him, "I am the way, and the truth, and the life. No one comes to the Father except through me." - John 14:6</h1>
