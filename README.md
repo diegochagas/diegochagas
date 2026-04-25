@@ -5,37 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://diegochagas.com/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logoColor=white" target="_blank" alt="portfolio" />
-  </a>
-
-  <a href="mailto:drochachagas@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" target="_blank" alt="drochachagas@gmail.com" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/diegorchagas/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/diegorchagas/" height="30" width="40" />
-  </a>
-  
-  <a href="https://stackoverflow.com/users/8081459/diego-chagas" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/8081459/diego-chagas" height="30" width="40" />
-  </a>
-  
-  <a href="https://www.instagram.com/diegorchagas/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/diegorchagas/" height="30" width="40" />
-  </a>
-
-  <a href="https://twitter.com/diegorchagas" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="diegorchagas" height="30" width="40" />
-  </a>
-
-  <a href="https://www.youtube.com/@diegorchagas" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@diegorchagas" height="30" width="40" />
-  </a>
-
-  <a href="https://discord.com/users/590161836343689225" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/users/590161836343689225" height="30" width="40" />
-  </a>
+<a href="https://diegochagas.com/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logoColor=white" /></a><a href="mailto:drochachagas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" /></a><a href="https://www.linkedin.com/in/diegorchagas/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a><a href="https://stackoverflow.com/users/8081459/diego-chagas" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" /></a><a href="https://www.instagram.com/diegorchagas/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a><a href="https://twitter.com/diegorchagas" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a><a href="https://www.youtube.com/@diegorchagas" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" /></a><a href="https://discord.com/users/590161836343689225" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
