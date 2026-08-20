@@ -36,8 +36,8 @@ DevOps/Tools:<br>
 <a href="https://www.instagram.com/diegorchagas/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"></a>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diegochagas&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="diegochagas" />
+  <img height="180em" src="https://github-readme-stats-alpha-sooty-98.vercel.app/api?username=diegochagas&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="diegochagas" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegochagas&layout=compact&langs_count=7&theme=dark" alt="diegochagas" />
+  <img height="180em" src="https://github-readme-stats-alpha-sooty-98.vercel.app/api/top-langs/?username=diegochagas&layout=compact&langs_count=7&theme=dark" alt="diegochagas" />
 </div>
 <hr>
